@@ -3,7 +3,7 @@
 Environmental Engineering based dataset details are here
 
 
--> TurfDataForNFLBigDataBowl2020 analysis on turf data for Journel: https://flyccs.com/jounals/IJIT/paper/Vol003.pdf
+-> TurfDataForNFLBigDataBowl2020 analysis on turf data for Journal: https://flyccs.com/jounals/IJIT/paper/Vol003.pdf
 
 
--> solar panel -circular economy Journel
+-> solar panel -circular economy Journal
