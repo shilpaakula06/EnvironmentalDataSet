@@ -7,3 +7,7 @@ Environmental Engineering based dataset details are here
 
 
 -> solar panel -circular economy Journal
+
+-> NO2 emission details
+
+-> water quality at River stations
